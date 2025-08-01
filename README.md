@@ -11,7 +11,8 @@
 - 🌱 I am currently learning advanced backend development & REST APIs.
 - 👯 I’m looking to collaborate on full-stack and backend web projects.
 - 💬 Ask me about Python, Django, REST API, Database Design, and Web Development.
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/ritikkumarsen/))
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikkumarsen/)
+
 
 -⚡ Fun fact: I am passionate about financial markets and enjoy following market trends and investment strategies.
 - Profile views: ![](https://komarev.com/ghpvc/?username=ritikkumar-11)
