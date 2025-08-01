@@ -1,4 +1,4 @@
-### Hi there, I'm Ritik Kumar Sen 👋
+### Hi there, I'm Ritik  👋
 
 <p align="center">
 <!--   <img src="https://avatars.githubusercontent.com/u/113904020?v=4" width="200" height="200" style="border-radius:50%"> -->
